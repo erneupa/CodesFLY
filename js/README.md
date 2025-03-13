@@ -75,10 +75,10 @@ ECMAScript es el estándar que establece la base de JavaScript, creado por Ecma 
 El cliente ha solicitado que la página web incorpore elementos interactivos y dinámicos para mejorar la experiencia de los usuarios. Por ello, será necesario utilizar JavaScript para manipular el DOM, permitiendo la creación, modificación y eliminación de elementos, así como la manipulación de estilos.
 
 ### Scripts.
-1. Modificación del título.
-2. Acortar texto.
-3. Crear preoducto.
-4. Eliminar producto existente.
-5. Modificar contenido.
+[1. Modificación del título.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/ModificaciónTítulo.md)
+[2. Acortar texto.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/AcortarTexto.md)
+[3. Crear preoducto.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/CrearProducto.md)
+[4. Eliminar producto existente.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/EliminarProducto.md)
+[5. Modificar contenido.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/ModificarContenido.md)
 
 
