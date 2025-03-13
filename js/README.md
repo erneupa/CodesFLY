@@ -55,8 +55,7 @@ ECMAScript es el estándar que establece la base de JavaScript, creado por Ecma 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="20">**· TypeScript** es una versión mejorada de JavaScript con tipado estático, ideal para proyectos grandes y escalables.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="20">
-**· PHP** está enfocado en backend, con una sintaxis sencilla y gran compatibilidad con servidores y bases de datos.
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="40">**· PHP** está enfocado en backend, con una sintaxis sencilla y gran compatibilidad con servidores y bases de datos.
 
 ## Descripción del proyecto
 El cliente ha solicitado que la página web incorpore elementos interactivos y dinámicos para mejorar la experiencia de los usuarios. Por ello, será necesario utilizar JavaScript para manipular el DOM, permitiendo la creación, modificación y eliminación de elementos, así como la manipulación de estilos.
