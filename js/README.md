@@ -5,7 +5,7 @@
 
 </h1>
 
-<img src="https://icons.iconarchive.com/icons/custom-icon-design/flat-circular-icon/512/Information-icon.png" alt="Info Icon" width="50">
+<img src="https://cdn.pixabay.com/photo/2013/07/13/13/21/information-160885_640.png" width="50">
 
 ## Información 
 
