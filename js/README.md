@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="/assets/saludo.gif" width="100">
+  <img src=["/assets/saludo.gif" width="100"](https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png)>
   <img src="https://img.shields.io/badge/-JAVASCRIPT-%238e44ad?style=for-the-badge" width= "300" alt="saludo">
-  <img src="/assets/saludo.gif" width="100">
+  <img src=["/assets/saludo.gif" width="100"](https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png)>
 </h1>
 
 ## Información
