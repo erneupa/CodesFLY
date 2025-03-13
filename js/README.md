@@ -53,8 +53,9 @@ ECMAScript es el estándar que establece la base de JavaScript, creado por Ecma 
 ## Comparación entre lenguajes de script.
 <img src= "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20">**· JavaScript** es dinámico, usado en frontend y backend, pero puede ser propenso a errores por su tipado flexible.
 
-**· TypeScript** es una versión mejorada de JavaScript con tipado estático, ideal para proyectos grandes y escalables.
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="20">**· TypeScript** es una versión mejorada de JavaScript con tipado estático, ideal para proyectos grandes y escalables.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="20">
 **· PHP** está enfocado en backend, con una sintaxis sencilla y gran compatibilidad con servidores y bases de datos.
 
 ## Descripción del proyecto
