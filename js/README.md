@@ -5,7 +5,7 @@
 
 </h1>
 
-## Información ![icono](https://cdn.pixabay.com/photo/2013/07/13/13/21/information-160885_640.png)
+## Información ![icono](https://cdn.pixabay.com/photo/2013/07/13/13/21/information-160885_640.png){ width=30px }
 
 JavaScript nació en 1995 de la mano de Brendan Eich, un ingeniero de Netscape, con el objetivo de hacer las páginas web más dinámicas e interactivas. Inicialmente se llamó Mocha, luego LiveScript, y finalmente JavaScript, como una estrategia de marketing para aprovechar la popularidad de Java en ese momento.
 
