@@ -5,7 +5,7 @@
 
 </h1>
 
-## Información 
+## Información .
 <img src="https://cdn.pixabay.com/photo/2013/07/13/13/21/information-160885_640.png" alt="Info Icon" width="40">
 
 
@@ -15,20 +15,20 @@ En sus primeros años, JavaScript era un lenguaje básico para pequeños scripts
 
 Hoy en día, JavaScript es un pilar fundamental del desarrollo web, utilizado tanto en el frontend (con librerías y frameworks como React, Angular y Vue.js) como en el backend (con Node.js). Su versatilidad y constante evolución lo han convertido en uno de los lenguajes más importantes del mundo de la programación.
 
-## Clasificación de los lenguajes de script
+## Clasificación de los lenguajes de script.
 Los lenguajes de script son un tipo de lenguaje de programación pensado para automatizar tareas y ejecutar instrucciones sin necesidad de compilarlas antes. Suelen funcionar a través de un intérprete, lo que los hace más flexibles y sencillos de utilizar en distintos entornos.
-### Clasificación
+### Clasificación.
 **· Según su Propósito**
 
 **· Según su Entorno de Ejecución**
 
 **· Según su Paradigma de Programación**
 
-## ECMAScript
-### ¿Qué es ECMAScript?
+## ECMAScript.
+### ¿Qué es ECMAScript?.
 ECMAScript es el estándar que establece la base de JavaScript, creado por Ecma International. Su propósito es asegurar la compatibilidad y el desarrollo continuo del lenguaje en diferentes entornos, como navegadores y servidores.
 
-### Versiones más relevantes de ECMAScript
+### Versiones más relevantes de ECMAScript.
 **· ES1 (1997) – La primera versión**
 
 **· ES3 (1999) – Primera gran actualización**
@@ -60,5 +60,25 @@ ECMAScript es el estándar que establece la base de JavaScript, creado por Ecma 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="40">**· PHP** está enfocado en backend, con una sintaxis sencilla y gran compatibilidad con servidores y bases de datos.
 
-## Descripción del proyecto
+## Justificación de la clasificación.
+
+| Lenguaje     | Uso Principal | Justificación con Ejemplos |
+|--------------|---------------|----------------------------|
+| **JavaScript** | Desarrollo frontend y backend | Usado en **React, Angular, Vue.js**, con manipulación del DOM. |
+| **TypeScript** | Desarrollo web escalable | Adoptado por **Microsoft y Angular** para grandes aplicaciones. |
+| **PHP**        | Desarrollo backend | Base de **WordPress y Laravel**, especializado en servidores y bases de datos. |
+
+
+## Proyecto.
+
+### Descripción del proyecto.
 El cliente ha solicitado que la página web incorpore elementos interactivos y dinámicos para mejorar la experiencia de los usuarios. Por ello, será necesario utilizar JavaScript para manipular el DOM, permitiendo la creación, modificación y eliminación de elementos, así como la manipulación de estilos.
+
+### Scripts.
+1. Modificación del título.
+2. Acortar texto.
+3. Crear preoducto.
+4. Eliminar producto existente.
+5. Modificar contenido.
+
+
