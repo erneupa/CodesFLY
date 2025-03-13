@@ -76,9 +76,13 @@ El cliente ha solicitado que la página web incorpore elementos interactivos y d
 
 ### Scripts.
 [1. Modificación del título.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/ModificaciónTítulo.md)
+
 [2. Acortar texto.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/AcortarTexto.md)
+
 [3. Crear preoducto.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/CrearProducto.md)
+
 [4. Eliminar producto existente.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/EliminarProducto.md)
+
 [5. Modificar contenido.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/ModificarContenido.md)
 
 
