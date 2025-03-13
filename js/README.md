@@ -5,7 +5,8 @@
 
 </h1>
 
-## Información
+## Información <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Information_source.svg" alt="Info Icon" width="50">
+
 JavaScript nació en 1995 de la mano de Brendan Eich, un ingeniero de Netscape, con el objetivo de hacer las páginas web más dinámicas e interactivas. Inicialmente se llamó Mocha, luego LiveScript, y finalmente JavaScript, como una estrategia de marketing para aprovechar la popularidad de Java en ese momento.
 
 En sus primeros años, JavaScript era un lenguaje básico para pequeños scripts en el navegador, pero su popularidad creció rápidamente. En 1997, ECMAScript se estableció como el estándar oficial del lenguaje, asegurando compatibilidad entre navegadores. Con el tiempo, el lenguaje evolucionó con nuevas versiones, como ES6 (2015), que introdujo mejoras clave como let, const, funciones de flecha y async/await.
