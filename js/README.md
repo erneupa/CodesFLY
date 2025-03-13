@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src=["/assets/saludo.gif" width="100"](https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png)>
-  <img src=https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="100">
-  <img src=https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="100">
+  # JAVASCRIPT
+  <img src=https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100">
 </h1>
 
 ## Información
