@@ -51,4 +51,4 @@ Para validar nuestros archivos, nos iremos a esta web [PINCHAR AQUÍ](https://va
 Una vez dentro, introducimos nuestro archivo y le damos al botón de validar, una vez se nos valide, nos salda una serie de errores, los cuales nos saldrá que tipo es y como arreglarlo. Tienes que ir poco a poco hasta que este completamente perfecto validado.
 
 ## Ver carpeta JS
-[PINCHAR AQUÍ]((https://github.com/erneupa/CodesFLY/tree/main/js)
+[PINCHAR AQUÍ](https://github.com/erneupa/CodesFLY/tree/main/js)
