@@ -11,7 +11,9 @@ Hoy en día, JavaScript es un pilar fundamental del desarrollo web, utilizado ta
 Los lenguajes de script son un tipo de lenguaje de programación pensado para automatizar tareas y ejecutar instrucciones sin necesidad de compilarlas antes. Suelen funcionar a través de un intérprete, lo que los hace más flexibles y sencillos de utilizar en distintos entornos.
 ### Clasificación
 **· Según su Propósito**
+
 **· Según su Entorno de Ejecución**
+
 **· Según su Paradigma de Programación**
 
 ## ECMAScript
@@ -20,20 +22,28 @@ ECMAScript es el estándar que establece la base de JavaScript, creado por Ecma 
 
 ### Versiones más relevantes de ECMAScript
 **· ES1 (1997) – La primera versión**
+
 **· ES3 (1999) – Primera gran actualización**
+
 **· ES5 (2009) – Modernización y compatibilidad**
+
 **· ES6 / ES2015 – La revolución de JavaScript**
+
 **· ES7 / ES2016**
+
 **· ES8 / ES2017**
+
 **· ES9 / ES2018**
+
 **· ES10 / ES2019**
+
 **· ES11 / ES2020**
+
 **· ES12 / ES2021**
+
 **· ES13 / ES2022**
+
 **· ES14 / ES2023**
-
-
-
 
 ## Descripción del proyecto
 El cliente ha solicitado que la página web incorpore elementos interactivos y dinámicos para mejorar la experiencia de los usuarios. Por ello, será necesario utilizar JavaScript para manipular el DOM, permitiendo la creación, modificación y eliminación de elementos, así como la manipulación de estilos.
