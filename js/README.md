@@ -1,4 +1,8 @@
-# JAVASCRIPT
+<h1 align="center">
+  <img src="/assets/saludo.gif" width="100">
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-%238e44ad?style=for-the-badge" width= "300" alt="saludo">
+  <img src="/assets/saludo.gif" width="100">
+</h1>
 
 ## Información
 JavaScript nació en 1995 de la mano de Brendan Eich, un ingeniero de Netscape, con el objetivo de hacer las páginas web más dinámicas e interactivas. Inicialmente se llamó Mocha, luego LiveScript, y finalmente JavaScript, como una estrategia de marketing para aprovechar la popularidad de Java en ese momento.
