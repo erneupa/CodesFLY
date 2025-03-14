@@ -110,7 +110,7 @@ boton.textContent = "Mostrar más";
 ```boton.textContent = "Mostrar más";``` Finalmente, cambiamos el texto del botón a "Mostrar más", para que el usuario sepa que puede hacer clic para ver el resto del texto.
 
 ## Antes de ejecutarlo.
-![3](/js/Explicaciones/assets/1.png)
+![3](/js/Explicaciones/assets/3.png)
 
 ## Despues de ejecutarlo.
-![4](/js/Explicaciones/assets/2.png)
+![4](/js/Explicaciones/assets/4.png)
