@@ -16,4 +16,4 @@ titulo.style.fontFamily = "Georgia, serif";
 ```titulo.style.fontFamily = "Georgia, serif";``` Ahora accedemos a los estilos de ese elemento. titulo.style nos permite cambiar las propiedades CSS directamente desde JavaScript. En este caso, estamos modificando la propiedad fontFamily para que el texto dentro del elemento se vea con la fuente Georgia. Si Georgia no está disponible en el dispositivo, se utilizará una fuente serif genérica.
 
 ## Antes de ejecutarlo.
-![1](CodesFLY/js/Explicaciones/assets/1.png)
+![1](/js/Explicaciones/assets/1.png)
