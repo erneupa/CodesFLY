@@ -79,7 +79,7 @@ El cliente ha solicitado que la página web incorpore elementos interactivos y d
 
 [2. Acortar texto.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/AcortarTexto.md)
 
-[3. Crear preoducto.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/CrearProducto.md)
+[3. Crear producto.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/CrearProducto.md)
 
 [4. Eliminar producto existente.](https://github.com/erneupa/CodesFLY/blob/main/js/Explicaciones/EliminarProducto.md)
 
