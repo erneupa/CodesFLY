@@ -4,7 +4,7 @@
 Este script seleccionará en este caso un título y le cambiaremos la fuente.
 
 ## Manual.
-Este script servirá para el archivo [index.html](index.html).
+Este script servirá para el archivo [index.html](https://github.com/erneupa/CodesFLY/blob/main/index.html).
 
 El Programa cuando lo abramos, nos aparecerá tal que así:
 ```
