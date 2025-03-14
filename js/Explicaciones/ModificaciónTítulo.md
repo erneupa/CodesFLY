@@ -85,7 +85,7 @@ document.querySelector(".equipo__texto").textContent = "Nuestra empresa ofrece s
 */
 ```
 
-Para poder ejecutarlo, tendremos que descomentar el código q  ue queramos revisar.
+Para poder ejecutarlo, tendremos que descomentar el código que queramos revisar.
 
 ## Código.
 ```
